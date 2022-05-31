@@ -3,7 +3,7 @@
   padding: 0;
 }
 
-body {
+.body--background {
   background-color: #f5f5f5;
 }
 
@@ -13,4 +13,9 @@ a {
 
 a:hover {
   color: #4c4c4c !important;
+}
+
+.name{
+    color: red;
+    font-size: 48px;
 }
